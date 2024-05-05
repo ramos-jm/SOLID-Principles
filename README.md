@@ -56,3 +56,5 @@ public class OrderTest {
 ```
 
 ## Class Diagram
+![image](https://github.com/ramos-jm/SOLID-Principles/assets/127398189/ea38fd2a-3059-49cc-8183-03e6b1ce9a1a)
+
